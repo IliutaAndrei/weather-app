@@ -10,11 +10,16 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-items: center;
 }
 
 .search-area {
     margin: 3rem;
     font-size: 1.25rem;
+}
+
+.response-area {
+    justify-items: center;
 }
 
 input {
