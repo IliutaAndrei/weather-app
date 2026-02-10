@@ -19,6 +19,7 @@ body {
 }
 
 .response-area {
+    margin: 1rem;
     justify-items: center;
 }
 
